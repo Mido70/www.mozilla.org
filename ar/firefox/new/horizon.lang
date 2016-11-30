@@ -10,20 +10,17 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;Enjoy online freedom.
-Enjoy online freedom.
-
+استمتع بالحرية على الإنترنت
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
 
 
 ;Browse Freely
-Browse Freely
-
+تصفح بحرية
 
 ;You’re browsing freely with the latest version of Firefox.
-You’re browsing freely with the latest version of Firefox.
-
+أنت الآن تتصفح الإنترنت بحرية بأحدث إصدار ما فيرفكس
 
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
 <a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
@@ -46,8 +43,8 @@ You’re using a pre-release version of Firefox.
 
 
 ;Looking for more info?
-Looking for more info?
-
+تبحث عن المزيد من المعلومات؟
+s
 
 ;Want a fresh copy?
 Want a fresh copy?
@@ -74,7 +71,7 @@ Please follow <a href="%(url)s">these instructions</a> to install Firefox.
 
 
 ;Freedom is fast
-Freedom is fast
+الحرية هي السرعة
 
 
 ;Go anywhere you want on the Web — with a quickness.
@@ -90,10 +87,10 @@ Enjoy the most built-in privacy tools of any browser.
 
 
 ;Freedom is yours
-Freedom is yours
+الحرية لك
 
 
 ;Use the only browser built for people, not profit.
-Use the only browser built for people, not profit.
+استخدم المتصفح الوحيد الذي أنشء من أجل الناس لا من أجل الربح.
 
 
